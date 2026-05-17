@@ -1,0 +1,8 @@
+{
+  "name": "Globetix Itinerary",
+  "description": "A polished travel itinerary view for managing flight bookings and passenger details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
